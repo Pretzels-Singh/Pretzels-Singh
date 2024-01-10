@@ -10,7 +10,7 @@ Hi, I'm Dilpreet Singh!
 
 </p>
 
-<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://img.freepik.com/premium-photo/sticker-boy-coding-computer-anime-s-creative-design-bold-line-cute-kawaii-st_655090-454640.jpg?w=740" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
