@@ -10,8 +10,9 @@ Hi, I'm Dilpreet Singh!
 
 </p>
 
-<img align="left" src="https://img.freepik.com/premium-photo/sticker-boy-coding-computer-anime-s-creative-design-bold-line-cute-kawaii-st_655090-454640.jpg?w=740" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+
 <hr>
+<img align="left" src="https://img.freepik.com/premium-photo/sticker-boy-coding-computer-anime-s-creative-design-bold-line-cute-kawaii-st_655090-454640.jpg?w=740" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="250" />
 
 ```
 I-am-Pretzels-Singh
@@ -24,6 +25,7 @@ I-am-Pretzels-Singh
 🌟 Main languages: Python, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
 🎵 Love metal, lofi, jazz and soft music
+🎵 ETC
 ```
 <hr>
 
