@@ -12,7 +12,7 @@ Hi, I'm Dilpreet Singh!
 
 
 <hr>
-<img align="left" src="https://img.freepik.com/premium-photo/sticker-boy-coding-computer-anime-s-creative-design-bold-line-cute-kawaii-st_655090-454640.jpg?w=740" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="250" />
+<img align="left" src="https://cdn.dribbble.com/users/2006406/screenshots/6404079/cube_dribbble.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="250" />
 
 ```
 I-am-Pretzels-Singh
